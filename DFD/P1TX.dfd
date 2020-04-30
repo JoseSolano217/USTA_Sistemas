@@ -1,0 +1,130 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+"Inserte la cantidad de estudiantes"
+5
+1
+1
+n
+6
+3
+3
+Sum
+1
+0
+5
+Total
+1
+0
+4
+Avrg
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+4
+1
+44
+"Inserte la primera nota del estudiante " ,i
+5
+1
+5
+Nota1
+9
+1
+18
+Nota1<0 or Nota1>5
+4
+1
+30
+"Inserte un valor entre 0 y 5"
+5
+1
+5
+Nota1
+11
+4
+1
+25
+"Inserte la segunda nota"
+5
+1
+5
+Nota2
+7
+0
+1
+18
+Nota2>5 or Nota2<0
+13
+9
+1
+18
+Nota2<0 or Nota2>5
+4
+1
+30
+"Inserte un valor entre 0 y 5"
+5
+1
+5
+Nota2
+11
+13
+4
+1
+25
+"Inserte la tercera nota"
+5
+1
+5
+Nota3
+7
+0
+1
+18
+Nota3>5 or Nota3<0
+13
+9
+1
+18
+Nota3<0 or Nota3>5
+4
+1
+30
+"Inserte un valor entre 0 y 5"
+5
+1
+5
+Nota3
+11
+13
+6
+2
+3
+Sum
+29
+Nota1*0.2+Nota2*0.3+Nota3*0.5
+5
+Total
+9
+Total+Sum
+10
+1

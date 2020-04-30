@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"Inserte su sueldo"
+5
+1
+4
+Monz
+7
+0
+1
+6
+Monz<1
+4
+1
+25
+"Inserte dias de trabajo"
+5
+1
+4
+Days
+7
+0
+1
+17
+Days<0 or Days>30
+6
+1
+8
+ReelMonz
+14
+(Monz/30)*Days
+4
+1
+29
+"Su salario es de " ,ReelMonz
+13
+4
+1
+34
+"El valor debe estar entre 0 y 30"
+13
+13
+4
+1
+29
+"El valor debe ser mayor a 0"
+13
+1

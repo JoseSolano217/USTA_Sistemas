@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+"Inserte valor del producto 1"
+5
+1
+6
+Value1
+4
+1
+30
+"Inserte valor del producto 2"
+5
+1
+6
+Value2
+4
+1
+30
+"Inserte valor del producto 3"
+5
+1
+6
+Value3
+4
+1
+30
+"Inserte valor del producto 4"
+5
+1
+6
+Value4
+4
+1
+35
+"Se va a calcular el IVA del total"
+6
+3
+5
+Total
+27
+Value1+Value2+Value3+Value4
+3
+IVA
+10
+Total*0.19
+8
+TotalIVA
+9
+Total+IVA
+4
+1
+117
+"La sumatoria del valor de los productos es de ",Total," su IVA es de ",IVA," y su valor con IVA es de ",TotalIVA,"."
+1

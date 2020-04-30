@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+"Inserte el mes en valores numericos"
+5
+1
+5
+Month
+7
+0
+1
+19
+Month>12 or Month<1
+7
+0
+1
+7
+Month=2
+7
+0
+1
+53
+Month=4 or Month=6 or Month=8 or Month=10 or Month=12
+4
+1
+15
+"Tiene 31 dias"
+13
+4
+1
+15
+"Tiene 30 dias"
+13
+13
+4
+1
+15
+"Tiene 29 dias"
+13
+13
+4
+1
+17
+"Deja las drogas"
+13
+1

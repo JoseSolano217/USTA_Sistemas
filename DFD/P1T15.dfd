@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+"Inserte el primer numero"
+5
+1
+4
+Num1
+4
+1
+27
+"Inserte el segundo numero"
+5
+1
+4
+Num2
+4
+1
+25
+"Iserte el tercer numero"
+5
+1
+4
+Num3
+7
+0
+1
+23
+Num3=Num2 and Num2=Num1
+7
+0
+1
+9
+Num3>Num2
+7
+0
+1
+9
+Num2>Num1
+4
+1
+30
+"El mayor numero es el " ,Num1
+13
+4
+1
+30
+"El mayor numero es el " ,Num2
+13
+13
+7
+0
+1
+9
+Num3>Num1
+4
+1
+30
+"El mayor numero es el " ,Num1
+13
+4
+1
+30
+"El mayor numero es el " ,Num3
+13
+13
+13
+4
+1
+19
+"Todos son iguales"
+13
+1

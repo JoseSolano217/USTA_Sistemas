@@ -1,0 +1,176 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"Inserte nota del primer examen"
+5
+1
+5
+Nota1
+7
+0
+1
+18
+Nota1>5 or Nota1<0
+4
+1
+22
+"Inserte segunda nota"
+5
+1
+5
+Nota2
+7
+0
+1
+18
+Nota2>5 or Nota2<0
+4
+1
+22
+"Inserte tercera nota"
+5
+1
+5
+Nota3
+7
+0
+1
+18
+Nota3>5 or Nota3<0
+4
+1
+21
+"Inserte cuarta nota"
+5
+1
+5
+Nota4
+7
+0
+1
+18
+Nota4>5 or Nota4<0
+6
+1
+5
+Final
+41
+Nota1*0.2+Nota2*0.25+Nota3*0.25+Nota4*0.3
+4
+1
+19
+"Aqui esta tu nota"
+4
+1
+5
+Final
+7
+0
+1
+7
+Final<2
+7
+0
+1
+9
+Final<3.2
+7
+0
+1
+21
+Final>3.2 and Final<4
+7
+0
+1
+7
+Final>4
+4
+1
+13
+"Buena cabro"
+13
+7
+0
+1
+7
+Final=5
+4
+1
+13
+"Buena cabro"
+13
+4
+1
+42
+"Maquina Monstruo Capo Crack Idolo Master"
+4
+1
+14
+"Segui asi eh"
+13
+13
+13
+4
+1
+5
+"Meh"
+13
+13
+4
+1
+12
+"Uh que mal"
+13
+13
+4
+1
+14
+"Muy mal weon"
+13
+13
+4
+1
+9
+"No weon"
+4
+1
+13
+"Va de 1 a 5"
+13
+13
+4
+1
+9
+"No weon"
+4
+1
+13
+"Va de 1 a 5"
+13
+13
+4
+1
+9
+"No weon"
+4
+1
+13
+"Va de 1 a 5"
+13
+13
+4
+1
+9
+"No weon"
+4
+1
+13
+"Va de 1 a 5"
+13
+1
